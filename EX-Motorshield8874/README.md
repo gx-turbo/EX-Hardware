@@ -137,7 +137,7 @@ The dual-row 8-pin header has the following pin assignments:
 
 | Function | Odd Pin | Even Pin |
 |-----------|-------|-------|
-| IOREF | 1 | 2 |
+| VDD | 1 | 2 |
 | SDA | 3 | 4 |
 | GND | 5 | 6 |
 | SCL | 7 | 8 |
